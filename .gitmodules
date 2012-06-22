@@ -9,7 +9,7 @@
 	url = git://github.com/vim-scripts/tlib.git
 [submodule "sources_plugins/vim-snippets"]
 	path = sources_plugins/vim-snippets
-	url = git://github.com/acustodioo/vim-snippets.git
+	url = git://github.com/honza/snipmate-snippets.git
 [submodule "sources_plugins/bufexplorer.zip"]
 	path = sources_plugins/bufexplorer.zip
 	url = git://github.com/vim-scripts/bufexplorer.zip.git
@@ -34,6 +34,14 @@
 [submodule "sources_plugins/ctrlp.vim"]
 	path = sources_plugins/ctrlp.vim
 	url = git://github.com/kien/ctrlp.vim.git
+
+[submodule "sources_plugins/c.vim"]
+	path = sources_plugins/c.vim
+    url = git://github.com/vim-scripts/c.vim.git
+[submodule "sources_plugins/taglist"]
+	path = sources_plugins/taglist
+    url = git://github.com/vim-scripts/taglist.vim.git
+
 [submodule "sources_misc/vim-coffee-script"]
 	path = sources_misc/vim-coffee-script
 	url = git://github.com/kchmck/vim-coffee-script.git
@@ -62,3 +70,5 @@
 [submodule "sources_misc/vim-markdown"]
 	path = sources_misc/vim-markdown
 	url = https://github.com/tpope/vim-markdown.git
+
+

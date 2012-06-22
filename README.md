@@ -1,3 +1,11 @@
+#My dependensing
+sudo apt-get install exuberant-ctags
+
+
+add c.vim plugin
+edit plugin snipmate-snippets: -> git://github.com/honza/snipmate-snippets.git 
+add taglist plugin 
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
