@@ -1,4 +1,8 @@
 #My edit
+
+**26/09/2012**
+-add pyflakes plugin
+
 sudo apt-get install exuberant-ctags
 
 
